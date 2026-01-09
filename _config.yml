@@ -1,0 +1,15 @@
+# Site configuration
+title: Shri Dinesh Group
+description: Crane Services, Real Estate & Transportation
+permalink: pretty
+
+# Jekyll settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Exclude files from build
+exclude:
+  - README.md
+  - .gitignore
+  - .github/
